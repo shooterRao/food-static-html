@@ -1,0 +1,407 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?yaju1y');
+  src:  url('fonts/icomoon.eot?yaju1y#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?yaju1y') format('truetype'),
+    url('fonts/icomoon.woff?yaju1y') format('woff'),
+    url('fonts/icomoon.svg?yaju1y#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-bread .path1:before {
+  content: "\e900";
+  color: rgb(255, 234, 146);
+}
+.ico-bread .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.ico-bread .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(229, 208, 122);
+}
+.ico-bread .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(229, 208, 122);
+}
+.ico-bread .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(229, 208, 122);
+}
+.ico-bread .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(242, 180, 124);
+}
+.ico-bread .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.ico-bread .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(216, 155, 104);
+}
+.ico-bread .path9:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(216, 155, 104);
+}
+.ico-bread .path10:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(216, 155, 104);
+}
+.ico-bread .path11:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ico-bread .path12:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.ico-bread .path13:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(252, 233, 195);
+}
+.ico-bread .path14:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(242, 216, 160);
+}
+.ico-bread .path15:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(242, 216, 160);
+}
+.ico-bread .path16:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(242, 216, 160);
+}
+.ico-bread .path17:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(198, 156, 109);
+}
+.ico-bread .path18:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.ico-bread .path19:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path20:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path21:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path22:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path23:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path24:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path25:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(140, 98, 57);
+}
+.ico-bread .path26:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-noodles .path1:before {
+  content: "\e91a";
+  color: rgb(244, 244, 244);
+}
+.ico-noodles .path2:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(216, 216, 216);
+}
+.ico-noodles .path3:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.ico-noodles .path4:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(164, 111, 62);
+}
+.ico-noodles .path5:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path6:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path7:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path8:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path9:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(251, 212, 144);
+}
+.ico-noodles .path10:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path11:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path12:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path13:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path14:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path15:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path16:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path17:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path18:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path19:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path20:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path21:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path22:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(238, 175, 75);
+}
+.ico-noodles .path23:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(175, 127, 88);
+}
+.ico-noodles .path24:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(237, 237, 237);
+}
+.ico-shrimp .path1:before {
+  content: "\e932";
+  color: rgb(241, 90, 36);
+}
+.ico-shrimp .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(241, 90, 36);
+}
+.ico-shrimp .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path5:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path6:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path7:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path8:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path9:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(247, 147, 30);
+}
+.ico-shrimp .path10:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-shrimp .path11:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-shrimp .path12:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-shrimp .path13:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-shrimp .path14:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-shrimp .path15:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ico-vegetable .path1:before {
+  content: "\e941";
+  color: rgb(136, 192, 87);
+}
+.ico-vegetable .path2:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path3:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path4:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(67, 107, 28);
+}
+.ico-vegetable .path5:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path6:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(136, 192, 87);
+}
+.ico-vegetable .path7:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path8:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path9:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path10:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(101, 156, 53);
+}
+.ico-vegetable .path11:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(136, 192, 87);
+}
+
